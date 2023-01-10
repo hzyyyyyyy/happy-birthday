@@ -1,6 +1,7 @@
 {
   "greeting": "Hi ",
   "name": "何婕琦",
+  "greetingText": "",
   "wishText": ";)",
   "imagePath": "img/微信图片_20230110223108.jpg",
   "text1": "生日快乐!!! :D",
@@ -10,12 +11,13 @@
   "text3": "但是后面我想想",
   "text4": "我觉得我想搞个花的",
   "text4Adjective": "不一样的东西",
-  "text5Entry": "因为,",
+  "text5Entry": "因为",
   "text5Content": "每个降生在这个世界上的人都是不一样，其中也包括你",
   "smiley": ":)",
   "bigTextPart1": "所",
   "bigTextPart2": "以",
   "wishHeading": "祝你福如东海老石头，寿比南山大乌龟",
   "outroText": "OK 现在你可以回过来说一下喜欢这个吗",
+  "replayText": "",
   "outroSmiley": ":)"
 }
